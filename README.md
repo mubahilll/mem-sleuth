@@ -32,7 +32,7 @@ python3 enhanced_memory_forensics.py <memory_dump_path>
 
 The script generates an analysis report containing information about suspicious patterns, extracted ASCII strings, and entropy levels in the memory dump file.
 
-## Contributers
+## Contributors
 - Ahsan Ahmed
   
 ## License
